@@ -724,4 +724,4 @@ client.on('message', async message => {
     }
 });
 
-client.login(process.env.token);
+client.login("ODM1NTM5NjI4NjE3NzYwNzkx.YIQ66w.a3jYOeIM-qiaNmDOg6oiIde-m9Y");
